@@ -3,6 +3,7 @@
 ## Designing and developing JavaScript solutions to enhance agencies' digital offerings and deliver memorable user experiences. ✨
 
 ## Portfolio - [mohi2code.com](https://mohi2code.com)
+## Resume - [Google Drive](https://docs.google.com/document/d/1UwsGx05ywa-bj7TkWSKAy0ue3CNUG4Lt90BjQrf7__U/edit?usp=sharing)
 
 <!--
 **mohi2code/mohi2code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
