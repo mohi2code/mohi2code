@@ -1,4 +1,8 @@
-### Hi there 👋
+### I craft code 👋
+
+## Designing and developing JavaScript solutions to enhance agencies' digital offerings and deliver memorable user experiences. ✨
+
+## Portfolio - (mohi2code.com)[https://mohi2code.com]
 
 <!--
 **mohi2code/mohi2code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
