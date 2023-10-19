@@ -15,7 +15,7 @@ You can view my portfolio @[mohi2code.com](https://mohi2code.com/)
 
 Also feel free to send me an email [mohi2code@gmail.com](mailto:mohi2code@gmail.com?subject=Hi%20Mohi)
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" />
 
 ### About me:
 
