@@ -1,4 +1,4 @@
-## Hey there 👋, I'm [Mohi!](https://github.com/mohi2code/)
+## Hey there 👋, I'm [Mohi](https://github.com/mohi2code/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mohieldin-a-4b06a417b)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/mohi.ahmed._/)
