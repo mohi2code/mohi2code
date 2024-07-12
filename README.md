@@ -21,7 +21,7 @@ Also feel free to send me an email [mohi2code@gmail.com](mailto:mohi2code@gmail.
 
 - 🏠 &nbsp; I live in Ankara, Turkey.
 - ✨ &nbsp; I’m currently exploring ML, Deep Learning, Data Mining, etc.
-- 📫 &nbsp; Reach me out: mohi2code@gmail.com.
+- 📫 &nbsp; Reach out to me: mohi2code@gmail.com.
 
 ### Languages and Tools:
 
